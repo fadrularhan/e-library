@@ -1,10 +1,8 @@
-# BukuHub - Sistem Perpustakaan QR Code
+# Elibrary - Sistem Web Perpustakaan Codeigniter
 
 > [!NOTE]
 >
 > ## Fitur
->
-> - Login, Register & Magic login link (via Email)
 > - Dashboard admin
 > - QR Code anggota
 > - QR Code peminjaman
@@ -79,6 +77,5 @@ username : superadmin
 email    : superadmin@admin.com
 password : superadmin
 ```
-
 
 # e-library
