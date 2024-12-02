@@ -1,4 +1,4 @@
-# Elibrary - Sistem Web Perpustakaan Codeigniter
+# E-library - Sistem Web Perpustakaan Codeigniter
 
 > [!NOTE]
 >
